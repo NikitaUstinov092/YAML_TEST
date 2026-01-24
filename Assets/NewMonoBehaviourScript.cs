@@ -6,6 +6,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Start()
     {
         var i = "";
+        Debug.Log("TEAT~!21");
     }
 
     // Update is called once per frame

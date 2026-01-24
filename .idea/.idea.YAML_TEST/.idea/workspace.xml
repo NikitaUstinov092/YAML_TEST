@@ -37,8 +37,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "TEST1",
+    "git-widget-placeholder": "TEST2",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -103,12 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1769254042187</updated>
       <workItem from="1769254042188" duration="4000" />
-      <workItem from="1769254128635" duration="135000" />
+      <workItem from="1769254122279" duration="32000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
