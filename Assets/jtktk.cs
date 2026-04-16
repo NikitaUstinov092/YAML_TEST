@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class 1231313 : MonoBehaviour
+public class jtktk : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
